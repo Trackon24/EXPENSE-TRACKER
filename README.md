@@ -11,14 +11,10 @@ A modern, visually appealing personal finance dashboard built with React, Vite, 
 **- Income & Expense Tracking**: Log transactions easily, categorized for clarity.
 
 **- Visualizations**:
-
-   **- Money Flow Diagram**: See how income splits into expenses and savings (using Sankey chart).
-
-   **- Expense Timeline**: Chronological view of your financial events.
-
-   **- Category Pie Chart**: Understand spending distribution at a glance.
-
-   **- Monthly Bar Chart**: Compare income vs. expenses over the last 6 months.
+    **- Money Flow Diagram**: See how income splits into expenses and savings (using Sankey chart).
+    **- Expense Timeline**: Chronological view of your financial events.
+    **- Category Pie Chart**: Understand spending distribution at a glance.
+    **- Monthly Bar Chart**: Compare income vs. expenses over the last 6 months.
 
 **- Budgeting**: Set monthly budgets per category and track progress with visual bars.
 
