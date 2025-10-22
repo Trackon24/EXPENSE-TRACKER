@@ -1,3 +1,7 @@
+# EXPENSE-TRACKER
+
+# Smart Expense Visualizer
+
 A modern, visually appealing personal finance dashboard built with React, Vite, and Tailwind CSS. Track your income and expenses, visualize spending patterns, set budgets, achieve savings goals, and personalize your experience.
 
 **Note**: This version uses local React state for data management. All data will be cleared when the browser page is refreshed.
