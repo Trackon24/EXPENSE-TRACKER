@@ -1,36 +1,62 @@
-# EXPENSE-TRACKER
+💰 Smart Expense Visualizer
 
-# Smart Expense Visualizer
+A fast and premium dashboard to track your money. See exactly where your income goes with live interactive charts and keep everything safely saved in the cloud. 
 
-A modern, visually appealing personal finance dashboard built with React, Vite, and Tailwind CSS. Track your income and expenses, visualize spending patterns, set budgets, achieve savings goals, and personalize your experience.
+✨ Features
 
-**Note**: This version uses local React state for data management. All data will be cleared when the browser page is refreshed.
+- Visualizer: Dynamic Cash Flow, Balance Timeline and Category Pie charts.
 
-✨ **Features**:
+- Cloud Sync: Automatically saves to MongoDB Atlas so you never lose data on refresh.
 
-- **Income & Expense Tracking**: Log transactions easily, categorized for clarity.
+- Entries Feed: A clean, chronological list of every transaction with instant delete.
 
-- **Visualizations**:
-  - **Money Flow Diagram**: See how income splits into expenses and savings (using Sankey chart).
-  - **Expense Timeline**: Chronological view of your financial events.
-  - **Category Pie Chart**: Understand spending distribution at a glance.
-  - **Monthly Bar Chart**: Compare income vs. expenses over the last 6 months.
+- Validation: Custom Node.js API keeps your financial data accurate and secure.
 
-- **Budgeting**: Set monthly budgets per category and track progress with visual bars.
+- Premium UI: High-end dark theme with glassmorphism and smooth animations.
 
-- **Savings Goals**: Create specific savings goals and allocate funds towards them.
+🛠️ Tech Stack
 
-- **Achievements**: Unlock badges for reaching financial milestones.
+🎨 Frontend
 
-- **Personalization**:
-  - **Multi-Currency Support**: Switch between ₹, $, €.
-  - **Theming**: Choose from Dark, Light, and Minimal themes.
-  - **Responsive Design**: Looks great on desktop, tablet, and mobile.
+React & Vite
 
-🛠️ **Technologies Used**:
+Tailwind CSS 
 
-- **React**: JavaScript library for building user interfaces.
-- **Vite**: Fast front-end build tool.
-- **Tailwind CSS**: Utility-first CSS framework for styling.
-- **Recharts**: Composable charting library for React.
-- **Firebase Authentication**: Used for anonymous user sessions (even with local state).
+Recharts (Graphs) 
+
+Lucide Icons 
+
+🔌 Backend
+
+Node.js & Express 
+
+MongoDB Atlas & Mongoose 
+
+Dotenv 
+
+⚙️ Setup Instructions
+
+1. Clone the Repo 
+
+git clone [(https://github.com/Trackon24/EXPENSE-TRACKER.git)]
+
+
+2. Backend 
+
+Go to the backend/ folder.
+
+Create a .env file and add your MONGO_URI.
+
+Run npm install and then node server.js.
+
+3. Frontend 🎨
+
+Go to the main project folder.
+
+Run npm install and then npm run dev.
+
+4. Start! 🚀
+
+Open localhost:5173 in your browser and start tracking!
+
+✨ Simple tracking for a better life. ✨
