@@ -60,4 +60,4 @@ Run npm install and then npm run dev.
 Open localhost:5173 in your browser and start tracking!
 
 ✨ Simple tracking for a better life. ✨
-](https://github.com/Trackon24/EXPENSE-TRACKER.git)
+
