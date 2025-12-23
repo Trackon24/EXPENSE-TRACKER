@@ -6,13 +6,13 @@
 
   - Visualizer: Dynamic Cash Flow, Balance Timeline and Category Pie charts.
 
-    - Cloud Sync: Automatically saves to MongoDB Atlas so you never lose data on refresh.
+  - Cloud Sync: Automatically saves to MongoDB Atlas so you never lose data on refresh.
 
-    - Entries Feed: A clean, chronological list of every transaction with instant delete.
+  - Entries Feed: A clean, chronological list of every transaction with instant delete.
 
-    - Validation: Custom Node.js API keeps your financial data accurate and secure.
+  - Validation: Custom Node.js API keeps your financial data accurate and secure.
 
-    - Premium UI: High-end dark theme with glassmorphism and smooth animations.
+  - Premium UI: High-end dark theme with glassmorphism and smooth animations.
 
 ##🛠️ Tech Stack
 
