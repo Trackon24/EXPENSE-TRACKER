@@ -1,63 +1,63 @@
-💰 Smart Expense Visualizer
+#💰 Smart Expense Visualizer
 
-A fast and premium dashboard to track your money. See exactly where your income goes with live interactive charts and keep everything safely saved in the cloud. 
+     A fast and premium dashboard to track your money. See exactly where your income goes with live interactive charts and keep everything safely saved in the cloud. 
 
-✨ Features
+##✨ Features
 
-- Visualizer: Dynamic Cash Flow, Balance Timeline and Category Pie charts.
+    ###- Visualizer: Dynamic Cash Flow, Balance Timeline and Category Pie charts.
 
-- Cloud Sync: Automatically saves to MongoDB Atlas so you never lose data on refresh.
+    - Cloud Sync: Automatically saves to MongoDB Atlas so you never lose data on refresh.
 
-- Entries Feed: A clean, chronological list of every transaction with instant delete.
+    - Entries Feed: A clean, chronological list of every transaction with instant delete.
 
-- Validation: Custom Node.js API keeps your financial data accurate and secure.
+    - Validation: Custom Node.js API keeps your financial data accurate and secure.
 
-- Premium UI: High-end dark theme with glassmorphism and smooth animations.
+    - Premium UI: High-end dark theme with glassmorphism and smooth animations.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
-🎨 Frontend
+  ##🎨 Frontend
 
-React & Vite
+    -React & Vite
 
-Tailwind CSS 
+    -Tailwind CSS 
 
-Recharts (Graphs) 
+    -Recharts (Graphs) 
 
-Lucide Icons 
+    -Lucide Icons 
 
-🔌 Backend
+ ##🔌 Backend
 
-Node.js & Express 
+    -Node.js & Express 
 
-MongoDB Atlas & Mongoose 
+    -MongoDB Atlas & Mongoose 
 
-Dotenv 
+    -Dotenv 
 
-⚙️ Setup Instructions
+##⚙️ Setup Instructions
 
-1. Clone the Repo 
+  1. Clone the Repo 
 
-git clone [(https://github.com/Trackon24/EXPENSE-TRACKER.git)]
+    git clone [(https://github.com/Trackon24/EXPENSE-TRACKER.git)]
 
 
-2. Backend 
+  2. Backend 
 
-Go to the backend/ folder.
+    Go to the backend/ folder.
 
-Create a .env file and add your MONGO_URI.
+    Create a .env file and add your MONGO_URI.
 
-Run npm install and then node server.js.
+    Run npm install and then node server.js.
 
-3. Frontend 🎨
+  3. Frontend 🎨
 
-Go to the main project folder.
+    Go to the main project folder.
 
-Run npm install and then npm run dev.
+    Run npm install and then npm run dev.
 
-4. Start! 🚀
+  4. Start! 🚀
 
-Open localhost:5173 in your browser and start tracking!
+    Open localhost:5173 in your browser and start tracking!
 
 ✨ Simple tracking for a better life. ✨
 
