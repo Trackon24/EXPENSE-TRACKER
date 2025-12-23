@@ -1,4 +1,4 @@
-#💰 Smart Expense Visualizer
+# 💰 Smart Expense Visualizer
 
   A fast and premium dashboard to track your money. See exactly where your income goes with live interactive charts and keep everything safely saved in the cloud. 
 
