@@ -16,23 +16,23 @@
 
 ## 🛠️ Tech Stack
 
-   ## -🎨 Frontend
+   -🎨 Frontend
 
-   -React & Vite
+     -React & Vite
 
-   -Tailwind CSS 
+     -Tailwind CSS 
 
-   -Recharts (Graphs) 
+   --Recharts (Graphs) 
 
-   -Lucide Icons 
+   --Lucide Icons 
 
- ## -🔌Backend
+  -🔌Backend
 
-   -Node.js & Express 
+   --Node.js & Express 
 
-   -MongoDB Atlas & Mongoose 
+   --MongoDB Atlas & Mongoose 
 
-   -Dotenv 
+   --Dotenv 
 
 ## ⚙️ Setup Instructions
 
