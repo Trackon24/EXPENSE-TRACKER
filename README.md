@@ -2,7 +2,7 @@
 
   A fast and premium dashboard to track your money. See exactly where your income goes with live interactive charts and keep everything safely saved in the cloud. 
 
-##✨ Features
+## ✨ Features
 
   - Visualizer: Dynamic Cash Flow, Balance Timeline and Category Pie charts.
 
@@ -14,34 +14,34 @@
 
   - Premium UI: High-end dark theme with glassmorphism and smooth animations.
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-  ##🎨 Frontend
+   ## -🎨 Frontend
 
-  -React & Vite
+   -React & Vite
 
-  -Tailwind CSS 
+   -Tailwind CSS 
 
-  -Recharts (Graphs) 
+   -Recharts (Graphs) 
 
-  -Lucide Icons 
+   -Lucide Icons 
 
- ##🔌 Backend
+ ## -🔌Backend
 
-  -Node.js & Express 
+   -Node.js & Express 
 
-  -MongoDB Atlas & Mongoose 
+   -MongoDB Atlas & Mongoose 
 
-  -Dotenv 
+   -Dotenv 
 
-##⚙️ Setup Instructions
+## ⚙️ Setup Instructions
 
-  1. Clone the Repo 
+  1. Clone the Repo 📂
 
    git clone [(https://github.com/Trackon24/EXPENSE-TRACKER.git)]
 
 
-  2. Backend 
+  2. Backend 🔌
 
    Go to the backend/ folder.
 
